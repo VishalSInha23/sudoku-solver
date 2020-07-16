@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"sudoku/utils"
+	"sudoku-solver/sudoku/utils"
 )
 
 const (

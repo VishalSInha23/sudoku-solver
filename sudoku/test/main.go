@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"sudoku/utils"
+	"sudoku-solver/sudoku/utils"
 )
 
 type sudokuInput [9]string
