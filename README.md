@@ -9,9 +9,10 @@ Simple sudoku solver, coded in Go.
 - go (to compile and produce binary).
 
 ## Installation
-- Go to your `$GOPATH`.
+- Go to your `$GOPATH`. Go to `go/src` folder.
 ```
 cd $GOPATH
+cd go/src
 ```
 - Clone the repository.
 ```
