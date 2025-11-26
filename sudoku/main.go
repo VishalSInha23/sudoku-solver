@@ -35,7 +35,6 @@ type httpHandler struct {
 func (h httpHandler) ServeHTTP(res http.ResponseWriter, req *http.Request) {
 
 	path := req.URL.String()
-	fmt.Println("Hello")
 	fmt.Println("Received a new request. Path : " + path)
 
 	switch path {
